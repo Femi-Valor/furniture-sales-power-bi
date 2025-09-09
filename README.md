@@ -10,11 +10,6 @@ This project analyzes the furniture sales performance for 2014,2015,2016,2017 us
 4. [Data Cleaning Process](Data--cleaning--process&preprocessing)
 5. [Key Metrics](#key-metrics)
 6. [Insights & Conclusions](#insights--conclusions)
-7. [Tools & Techniques Used](#tools--techniques-used)
-8. [Questions & Answers](#questions--answers)
-9. [Recommendation](#Recommendation)
-10. [Conclusion](#Conclusion)
-11. [Author](#author)
 
 ---
 
