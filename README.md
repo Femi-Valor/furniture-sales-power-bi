@@ -107,44 +107,6 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 
 ---
 
-## Tools & Techniques Used
-1. **Power BI**:
-   - Power Query Editor for extensive data cleaning and transformation.
-   - DAX (Data Analysis Expressions) to calculate key metrics like total collisions, injuries, fatalities, and percentage breakdowns.
-   - Slicers for dynamic filtering by borough, vehicle type, month, and contributing factors.
-   - Custom Visuals including bar charts, pie charts, stacked columns, KPIs, and heatmaps for clear insight presentation.
-2. **Figma**: Designed visual mockups and layout guides to ensure a clean, user-friendly dashboard interface.
-
----
-
-## Questions & Answers
-### Q1: Compare the % of total accidents by month. Do you notice any seasonal patterns? 
-**Ans**: Yes, a clear seasonal pattern emerges. The highest percentage of accidents occurred in October, followed by June and August. The months with the lowest accident rates were February and January.
-
-### Q2: Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?
-**Ans**: - Accidents peak sharply around midnight (12:00 AM) — likely due to the timestamp default or batch reporting practices — followed by a steady increase from 6:00 AM, with consistent spikes between 8:00 AM to 6:00 PM, especially around 3:00 PM to 6:00 PM, coinciding with afternoon rush hours.
-         - By Day of Week: Fridays have the highest accident frequency, followed closely by Thursdays and Wednesdays.
-Weekends (especially Sundays) see fewer incidents, likely due to reduced commuting traffic.
-
-### Q3:  On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
-**Ans**: The street with the most reported accidents was Brooklyn.
-
-### Q4: What was the most common contributing factor for the accidents reported in this sample (based on 
-Vehicle 1)? What about fatal accidents specifically?  
-**Ans**: - The most common contributing factor across all accidents (based on Vehicle 1) was Unspecified.
-         - For fatal accidents specifically, the leading contributing factor remained Unspecified.
-
----
-
-## Recommendation
-1. Enhance Driver Awareness & Distraction Prevention Campaigns: Implementing stricter penalties for distracted driving and conducting public awareness campaigns on focused driving and accident prevention.
-2. Improve Traffic Control & Law Enforcement: Increase traffic patrols in high-collision areas and enforce speed limits, right-of-way laws, and lane discipline more strictly.
-3. Develop Safer Infrastructure for Cyclists & Pedestrians: Expand dedicated bike lanes and pedestrian-friendly zones and install more traffic calming measures (e.g., speed bumps, pedestrian islands).
-4. Targeted Safety Measures in High-Collision Boroughs: Brooklyn & Queens: Implement city-wide road safety programs due to high fatalities.
----
-
-## Conclusion
-This project successfully analyzed NYC traffic accident data to identify key patterns and risk factors. The insights gathered can help inform safety initiatives, improve traffic management, and reduce accident occurrences through data-driven decisions.
 
 ---
 
