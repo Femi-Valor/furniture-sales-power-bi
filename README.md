@@ -67,22 +67,19 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 ---
 
 ## Key Metrics
-1. **Total Sales**: $733,215
-2. **Total Profit**: $97,790
-   - Profit Margin: ~13%
-3. **Total Quantity Sold**: 9,994 units
-4. **Top Category by Sales: Furniture** ($250K+)
-5. **Top Sub-Category by Sales: Chairs** (highest revenue contributor)
-6. **Most Profitable Sub-Category**: Copiers
-7. **Least Profitable Sub-Category**: Tables (frequent losses despite high sales)
-8. **Top Region by Sales**: West (largest revenue and profit contributor)
-9. **Top State by Sales**: California
-10. **Most Used Ship Mode**: Standard Class (~60% of all orders)
-11. **Customer Segment with Highest Sales**: Consumer
-12. **Seasonal Pattern**: Sales peak in November & December (holiday effect), lowest in February.
+1. **Total Sales**: $742.0k
+2. **Total Profit**: $18.5k
+   - Profit Margin: ~57%
+3. **Total Quantity Sold**: 8.0k units
+4. **Top Sub-Category by Sales: Chairs** (highest revenue contributor)
+5. **Shippng Duration**: 4-days (~28%)
+6. **Top Region by Sales**: West (largest revenue and profit contributor)
+7. **Top State by Sales**: California
+8. **Most Used Ship Mode**: Standard Class (~59% of all orders)
+9. **Customer Segment with Highest Sales**: Consumer
+10. **Seasonal Pattern**: Sales peak in November & December (holiday effect), lowest in February.
 
 ---
-
 ## Insights & Conclusions
 1. **Category Performance**:
    - Furniture and Technology drive the bulk of revenue, but Office Supplies contributes steady profits with less risk.
