@@ -1,5 +1,5 @@
 # Funiture-Sales-Performance
-This project analyzes the furniture sales performance for 2014,2015,2016,2017 using an interactive power-bi dashboard. It explores sales and profit trends, top-selling states and cities, shipping modes, and product categories, uncovering insights to drive data‑driven business decisions.
+This project analyzes the furniture sales performance for 2016 vs 2017 using an interactive excel dashboard. It explores sales and profit trends, top-selling states and cities, shipping modes, and product categories, uncovering insights to drive data‑driven business decisions.
 
 ---
 
@@ -47,7 +47,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 - **Removed Duplicates**: Ensured the uniqueness of records by checking against Order ID and Product ID.
 - **Data Types**: Converted columns such as Order Date and Ship Date to proper Date format, and ensured Sales, Quantity, and Profit were numeric.
 - **Null Handling**: Replaced missing values in categorical fields (e.g., City, State, Region) with “Unknown”.
-- **Derived Columns**: Extracted Month and Year from Order Date for time-series analysis.
+- **Derived Columns**: Extracted Month and Year from Order Date for time-series analysis, and also duration.
 - **Text Standardization**: Cleaned up inconsistent entries in Category and Sub-Category fields for accurate grouping.
 
 ---
@@ -61,6 +61,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 - **Customer Segments**: Analysis by Consumer, Corporate, and Home Office segments to uncover profitability trends.
 - **Shipping Performance**: Comparison of Ship Modes (First Class, Second Class, Standard Class, Same Day) to evaluate cost vs. margin trade-offs.
 - **Time-Based Trends**: Monthly sales and profit charts highlight seasonal patterns and growth opportunities.
+- **Shipping Duration**: ship date minus order date to get the number of days it took to be delivered.
 - **User-Centric Design**: Clean layout, consistent formatting, and Excel slicers ensure clarity and easy exploration.
 - **Dynamic Insights**: All visuals update instantly based on user selections, supporting scenario-based decision making.
 
