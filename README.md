@@ -64,6 +64,8 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 - **Shipping Duration**: ship date minus order date to get the number of days it took to be delivered.
 - **User-Centric Design**: Clean layout, consistent formatting, and Excel slicers ensure clarity and easy exploration.
 - **Dynamic Insights**: All visuals update instantly based on user selections, supporting scenario-based decision making.
+  <img width="1146" height="503" alt="Screenshot 2025-09-10 111341" src="https://github.com/user-attachments/assets/4946cd30-5561-411e-842c-981ebe8d6504" />
+
 
 ---
 
